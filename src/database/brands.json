@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "brand_name": "Acura",
+    "average_price": 702109.5
+  },
+  {
+    "id": 2,
+    "brand_name": "Audi",
+    "average_price": 630759.47
+  },
+  {
+    "id": 3,
+    "brand_name": "Bentley",
+    "average_price": 3342575
+  },
+  {
+    "id": 4,
+    "brand_name": "BMW",
+    "average_price": 858702.05
+  },
+  {
+    "id": 5,
+    "brand_name": "Buick",
+    "average_price": 290371.89
+  },
+  {
+    "id": 6,
+    "brand_name": "Cadillac",
+    "average_price": 479268.22
+  },
+  {
+    "id": 7,
+    "brand_name": "Chevrolet",
+    "average_price": 252685.55
+  },
+  {
+    "id": 8,
+    "brand_name": "Chrysler",
+    "average_price": 191894.69
+  },
+  {
+    "id": 9,
+    "brand_name": "Dodge",
+    "average_price": 209228.76
+  },
+  {
+    "id": 10,
+    "brand_name": "FAW",
+    "average_price": 52707.14
+  },
+  {
+    "id": 11,
+    "brand_name": "Ferrari",
+    "average_price": 0
+  },
+  {
+    "id": 12,
+    "brand_name": "Fiat",
+    "average_price": 107028.18
+  },
+  {
+    "id": 13,
+    "brand_name": "Ford",
+    "average_price": 176244.84
+  },
+  {
+    "id": 14,
+    "brand_name": "GMC",
+    "average_price": 341265
+  },
+  {
+    "id": 15,
+    "brand_name": "Honda",
+    "average_price": 236689.53
+  },
+  {
+    "id": 16,
+    "brand_name": "Infiniti",
+    "average_price": 457639.27
+  },
+  {
+    "id": 17,
+    "brand_name": "Jaguar",
+    "average_price": 854875.09
+  },
+  {
+    "id": 18,
+    "brand_name": "Jeep",
+    "average_price": 260805
+  },
+  {
+    "id": 19,
+    "brand_name": "Lamborghini",
+    "average_price": 0
+  },
+  {
+    "id": 20,
+    "brand_name": "Land Rover",
+    "average_price": 823132
+  },
+  {
+    "id": 21,
+    "brand_name": "Lincoln",
+    "average_price": 419551.17
+  },
+  {
+    "id": 22,
+    "brand_name": "Maserati",
+    "average_price": 1598631.25
+  },
+  {
+    "id": 23,
+    "brand_name": "Mastretta",
+    "average_price": 0
+  },
+  {
+    "id": 24,
+    "brand_name": "Mazda",
+    "average_price": 235162.91
+  },
+  {
+    "id": 25,
+    "brand_name": "Mercedes Benz",
+    "average_price": 874873.41
+  },
+  {
+    "id": 26,
+    "brand_name": "Mitsubishi",
+    "average_price": 205150
+  },
+  {
+    "id": 27,
+    "brand_name": "Nissan",
+    "average_price": 251351.33
+  },
+  {
+    "id": 28,
+    "brand_name": "Peugeot",
+    "average_price": 241946.25
+  },
+  {
+    "id": 29,
+    "brand_name": "Porsche",
+    "average_price": 901843.14
+  },
+  {
+    "id": 30,
+    "brand_name": "RAM",
+    "average_price": 156775.33
+  },
+  {
+    "id": 31,
+    "brand_name": "Renault",
+    "average_price": 150916.05
+  },
+  {
+    "id": 32,
+    "brand_name": "Rolls Royce",
+    "average_price": 0
+  },
+  {
+    "id": 33,
+    "brand_name": "Seat",
+    "average_price": 203512.4
+  },
+  {
+    "id": 34,
+    "brand_name": "Smart",
+    "average_price": 122601.8
+  },
+  {
+    "id": 35,
+    "brand_name": "Subaru",
+    "average_price": 269824.78
+  },
+  {
+    "id": 36,
+    "brand_name": "Suzuki",
+    "average_price": 167157.23
+  },
+  {
+    "id": 37,
+    "brand_name": "Toyota",
+    "average_price": 263356.9
+  },
+  {
+    "id": 38,
+    "brand_name": "Volkswagen",
+    "average_price": 224084.59
+  },
+  {
+    "id": 39,
+    "brand_name": "Volvo",
+    "average_price": 415593.25
+  },
+  {
+    "id": 40,
+    "brand_name": "Alfa Romeo",
+    "average_price": 566127.25
+  },
+  {
+    "id": 41,
+    "brand_name": "Hummer",
+    "average_price": 0
+  },
+  {
+    "id": 42,
+    "brand_name": "Hyundai",
+    "average_price": 216107.36
+  },
+  {
+    "id": 43,
+    "brand_name": "Isuzu",
+    "average_price": 317797.6
+  },
+  {
+    "id": 44,
+    "brand_name": "McLaren",
+    "average_price": 0
+  },
+  {
+    "id": 45,
+    "brand_name": "Mercury",
+    "average_price": 0
+  },
+  {
+    "id": 46,
+    "brand_name": "Cbo",
+    "average_price": 149387.5
+  },
+  {
+    "id": 47,
+    "brand_name": "Pontiac",
+    "average_price": 66382.82
+  },
+  {
+    "id": 48,
+    "brand_name": "Saab",
+    "average_price": 0
+  },
+  {
+    "id": 49,
+    "brand_name": "Aston Martin",
+    "average_price": 2677625
+  },
+  {
+    "id": 50,
+    "brand_name": "Lotus",
+    "average_price": 0
+  },
+  {
+    "id": 51,
+    "brand_name": "MG",
+    "average_price": 0
+  },
+  {
+    "id": 52,
+    "brand_name": "Tesla",
+    "average_price": 1488137.33
+  },
+  {
+    "id": 53,
+    "brand_name": "Abarth",
+    "average_price": 0
+  },
+  {
+    "id": 54,
+    "brand_name": "KIA",
+    "average_price": 369233.3
+  },
+  {
+    "id": 55,
+    "brand_name": "Mini Cooper",
+    "average_price": 290547.44
+  },
+  {
+    "id": 56,
+    "brand_name": "Baic",
+    "average_price": 311875.8
+  },
+  {
+    "id": 57,
+    "brand_name": "JAC",
+    "average_price": 363027.2
+  },
+  {
+    "id": 58,
+    "brand_name": "HINO",
+    "average_price": 977124
+  },
+  {
+    "id": 59,
+    "brand_name": "International",
+    "average_price": 717030
+  },
+  {
+    "id": 60,
+    "brand_name": "UAZ",
+    "average_price": 542000
+  },
+  {
+    "id": 61,
+    "brand_name": "Zacua",
+    "average_price": 0
+  },
+  {
+    "id": 62,
+    "brand_name": "Tesla",
+    "average_price": 0
+  },
+  {
+    "id": 63,
+    "brand_name": "Nissan 2",
+    "average_price": 0
+  },
+  {
+    "id": 64,
+    "brand_name": "Nissan 3",
+    "average_price": 0
+  }
+]
