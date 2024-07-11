@@ -31,7 +31,7 @@ Follow the next step to run the project:
    ```
 
 2. ```bash
-   cd test-Nexu
+   cd Nexu-test
    ```
 3. ```bash
    npm i
